@@ -20,4 +20,4 @@ const content = document.querySelector("#content p");
 console.log(content);
 
 
-console.style.fontsize = "50px"
+content.style.fontSize = "50px"
